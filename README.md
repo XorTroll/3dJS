@@ -1,4 +1,4 @@
-# 3dJS
+# 3dJS (this project is outdated, check [Brew.js](https://github.com/XorTroll/Brew.js) for its new project)
 - JS interpreter for 3DS, using duktape engine.
 - You can load plain JS here, and you can use the elements below to access 3DS system's functions.
 
